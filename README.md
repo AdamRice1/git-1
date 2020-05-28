@@ -32,9 +32,4 @@ Exercise Steps/Instructions:
 * On GitHub, verify that the master branch only has the README.md file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
-**Bonus Goals:
-* The instructions for the bonus functionality are another branch of this repo.  Find those instructions
-
-3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
-
-4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
+For and edit
